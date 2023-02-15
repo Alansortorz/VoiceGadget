@@ -1,0 +1,13 @@
+Added Component: Designator=T4(TEST_PT_Point)
+Added Component: Designator=T5(TEST_PT_Point)
+Added Pin To Net: NetName=RX Pin=R7-2
+Added Pin To Net: NetName=RX Pin=T4-0
+Added Pin To Net: NetName=RX Pin=TW-ASR1-22
+Added Net: Name=RX
+Added Pin To Net: NetName=TX Pin=R8-2
+Added Pin To Net: NetName=TX Pin=T5-0
+Added Pin To Net: NetName=TX Pin=TW-ASR1-23
+Added Net: Name=TX
+Added Member To Class: ClassName=ASR_USB Member=Component T4 LinkPoint
+Added Member To Class: ClassName=ASR_USB Member=Component T5 LinkPoint
+Added Room: Name=ASR_USB

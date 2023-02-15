@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : E:\05.Projects\025.º¥≤Âº¥”√”Ô“ÙΩªª•≤Âº˛°æVoiceGadget°ø\01.Hardware\ASR_USB.PcbDoc
+Date         : 2022/11/1
+Time         : 23:14:26
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 144
+    Connections routed, 144
+    Connections remaining, 0
+count : 4

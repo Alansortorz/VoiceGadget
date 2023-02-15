@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: E:\05.Projects\025.º¥≤Âº¥”√”Ô“ÙΩªª•≤Âº˛°æVoiceGadget°ø\01.Hardware\ASR_USB.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

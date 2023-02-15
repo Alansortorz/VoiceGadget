@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: E:\05.Projects\025.º¥≤Âº¥”√”Ô“ÙΩªª•≤Âº˛°æVoiceGadget°ø\01.Hardware\ASR_USB.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=asr_usb-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=asr_usb-slotholes.txt|DrillLayers=gtl,g1,g2,gbl

@@ -1,0 +1,31 @@
+Added Component: Designator=TW-ASR1(QFN48 7X7_L)
+Added Pin To Net: NetName=NetC2_2 Pin=TW-ASR1-1
+Added Pin To Net: NetName=1V2 Pin=TW-ASR1-2
+Added Pin To Net: NetName=GND Pin=TW-ASR1-3
+Added Pin To Net: NetName=NetR2_2 Pin=TW-ASR1-6
+Added Pin To Net: NetName=3V3 Pin=TW-ASR1-8
+Added Pin To Net: NetName=1V2 Pin=TW-ASR1-9
+Added Pin To Net: NetName=B Pin=TW-ASR1-18
+Added Pin To Net: NetName=R Pin=TW-ASR1-19
+Added Pin To Net: NetName=G Pin=TW-ASR1-20
+Added Pin To Net: NetName=3V3 Pin=TW-ASR1-21
+Added Pin To Net: NetName=NetR7_2 Pin=TW-ASR1-22
+Added Pin To Net: NetName=NetR8_2 Pin=TW-ASR1-23
+Added Pin To Net: NetName=GND Pin=TW-ASR1-24
+Added Pin To Net: NetName=RST Pin=TW-ASR1-25
+Added Pin To Net: NetName=3V3 Pin=TW-ASR1-28
+Added Pin To Net: NetName=1V2 Pin=TW-ASR1-29
+Added Pin To Net: NetName=MICN_L Pin=TW-ASR1-37
+Added Pin To Net: NetName=MICP_L Pin=TW-ASR1-38
+Added Pin To Net: NetName=MICBIAS Pin=TW-ASR1-39
+Added Pin To Net: NetName=AGND Pin=TW-ASR1-40
+Added Pin To Net: NetName=AGND Pin=TW-ASR1-42
+Added Pin To Net: NetName=HPOUT_L Pin=TW-ASR1-43
+Added Pin To Net: NetName=3V3 Pin=TW-ASR1-44
+Added Pin To Net: NetName=NetC14_2 Pin=TW-ASR1-45
+Added Pin To Net: NetName=NetC16_2 Pin=TW-ASR1-46
+Added Pin To Net: NetName=SPK Pin=TW-ASR1-47
+Added Pin To Net: NetName=NetR9_1 Pin=TW-ASR1-48
+Added Pin To Net: NetName=GND Pin=TW-ASR1-49
+Added Member To Class: ClassName=ASR_USB Member=Component TW-ASR1 TW-ASR
+Added Room: Name=ASR_USB
